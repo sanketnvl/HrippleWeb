@@ -266,52 +266,82 @@ hi, h2, h3, h4, h5, h6 {
 			    <div class="thumbnail" id="nowhirring" style="max-height: 450px;overflow-y: scroll;background: #E9EAEA;">
 			      <div class="caption">
 			      <ol class="list-group">
-			      	<li class="list-group-item">
+			      <!-- 	<li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg1">1. <Strong>Executive/Senior Executive/TLSTL </Strong>- Recruitment for India's best known Internet brands Bangalore Hub location</a>
+						<p>1. <Strong class="">Senior Manager</Strong> - Data Acquisitions (Economy), 5 to 7 years exp in Economy Research</p>
+					</li> -->
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg2">1. <Strong>Telemarketer </Strong>- for Advertising Agency Mumbai location</a>
 						<!-- <p>1. <Strong class="">Senior Manager</Strong> - Data Acquisitions (Economy), 5 to 7 years exp in Economy Research</p> -->
 					</li>
-					<li class="list-group-item">
-						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg2">2. <Strong>Telemarketer </Strong>- for Advertising Agency Mumbai location</a>
-						<!-- <p>1. <Strong class="">Senior Manager</Strong> - Data Acquisitions (Economy), 5 to 7 years exp in Economy Research</p> -->
-					</li>
-					<li class="list-group-item">
+					<!-- <li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg3">3. <Strong>Team Leader </Strong>- Recruitment for India's best known Internet brands Navi Mumbai location</a>
-						<!-- <p>1. <Strong class="">Senior Manager</Strong> - Data Acquisitions (Economy), 5 to 7 years exp in Economy Research</p> -->
-					</li>
+						<p>1. <Strong class="">Senior Manager</Strong> - Data Acquisitions (Economy), 5 to 7 years exp in Economy Research</p>
+					</li> -->
 					<li class="list-group-item">
-						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg4">4. <Strong>Business Development Executive</Strong> for Advertising Agency Mumbai location</a>
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg4">2. <Strong>Business Development Executive</Strong> for Advertising Agency Mumbai location</a>
 					</li>
-					<li class="list-group-item">
+					<!-- <li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg5">5. <strong>VIP Sales Consultant</strong>for India's best known Internet brands Mumbai location
 								  </a>
-					</li>
-					<li class="list-group-item">
+					</li> -->
+					<!-- <li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg6">6. <strong>Associate Director / Director</strong>- User Experience & Design for India's best known Internet brands Navi Mumbai location 
 								  </a>
-					</li>
+					</li> -->
 					<li class="list-group-item">
-						<a href="#"  data-toggle="modal" data-target=".bs-example-modal-lg7">7.<strong>Business Development Manager</strong> for one of the leading Human Capital Management Automation segment
+						<a href="#"  data-toggle="modal" data-target=".bs-example-modal-lg7">3.<strong>Business Development Manager</strong> for one of the leading Human Capital Management Automation segment
 								  </a>
 					</li>
 					<li class="list-group-item">
-						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg8">8.<strong>Executive</strong> - Inside Sales for one of the leading Human Capital Management Automation segment for Bangalore location
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg8">4.<strong>Executive</strong> - Inside Sales for one of the leading Human Capital Management Automation segment for mutiple location across India
 								  </a>
 					</li>
 					<li class="list-group-item">
-						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg9">9.<strong>Assistant Manager</strong> - Customer Delight for one of the leading Human Capital Management Automation segment for Mumbai location
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg9">5.<strong>Assistant Manager</strong> - Customer Delight for one of the leading Human Capital Management Automation segment for Mumbai location
 								  </a>
 					</li>
-					<li class="list-group-item">
+					<!-- <li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg10">10.<strong>Associate Lead Engineer</strong> - for India's best known Internet brands Navi Mumbai location
 								  </a>
-					</li>
-					<li class="list-group-item">
+					</li> -->
+					<!-- <li class="list-group-item">
 						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg11">11.<strong>Product Counsellor</strong> - Sales for India's best known Internet brands Mumbai location
 								  </a>
+					</li> 
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg12">6.<strong>Senior Data Scientist</strong> - for India's best known Internet brands Mumbai location</a>
+					</li>
+					-->
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg13">6.<strong>CODESYS Engineer</strong> - Application Testing for a Technology & Software Development Company for Pune location</a>
 					</li>
 					<li class="list-group-item">
-						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg12">12.<strong>Senior Data Scientist</strong> - for India's best known Internet brands Mumbai location
-								  </a>
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg14">7.<strong>Senior Software App Developer</strong> - Cross-platform C# for a Technology & Software Development Company for Pune location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg15">8.<strong>Senior Software Developer</strong> -  Windows for a Technology & Software Development Company for Pune location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg16">9.<strong>Senior Software User Interface and App Developer</strong> - for a Technology & Software Development Company for Pune location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg17">10.<strong>Test Engineer</strong> - Application Software for a Technology & Software Development Company for Pune location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg18">11.<strong>Business Development Process Manager</strong> -  for Real Estate & Investment Firm for Mumbai Location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg19">12.Hiring for <strong>Implementation Consultant</strong> for one of the leading Human Capital Management Automation segment for Mumbai location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg20">13.<strong>HR Recruiter</strong> for Hripples Solutions</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg21">14.<strong>Head</strong> - Marketing Strategy for a company leading in Real Industry for Mumbai location.</a>
+					</li>
+					<li class="list-group-item">
+						<a href="#" data-toggle="modal" data-target=".bs-example-modal-lg22">15.<strong>Senior Manager/ AGM</strong>- Business Development for a company leading in Real Industry for Mumbai location.</a>
 					</li>
 				</ol>
 		     </div>
@@ -652,7 +682,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color: #af6011;">	Executive/Senior Executive/TLSTL - Recruitment for India's best known Internet brands Bangalore Hub location
+			<h3 class="modal-title" style="color: #af6011;">	Executive/Senior Executive/TLSTL - Recruitment for India's best known Internet brands Bangalore Hub location</h3>
 			</div>
 			<div class="modal-body">
 		
@@ -721,7 +751,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;">Telemarketer for Advertising Agency Mumbai location.
+			<h3 class="modal-title" style="color:#af6011;">Telemarketer for Advertising Agency Mumbai location.</h3>
 			</div>
 			<div class="modal-body">
 		
@@ -790,7 +820,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;">	Team Leader - Recruitment for India's best known Internet brands Navi Mumbai location.
+			<h3 class="modal-title" style="color:#af6011;">	Team Leader - Recruitment for India's best known Internet brands Navi Mumbai location.</h3>
 			</div>
 			<div class="modal-body">
 		
@@ -866,7 +896,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Business Development Executive for Advertising Agency Mumbai location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Business Development Executive for Advertising Agency Mumbai location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -941,7 +971,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>VIP Sales Consultant for India's best known Internet brands Mumbai location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>VIP Sales Consultant for India's best known Internet brands Mumbai location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1012,7 +1042,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring Associate Director / Director - User Experience & Design for India's best known Internet brands Navi Mumbai location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring Associate Director / Director - User Experience & Design for India's best known Internet brands Navi Mumbai location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1089,7 +1119,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Business Development Manager for one of the leading Human Capital Management Automation segment.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Business Development Manager for one of the leading Human Capital Management Automation segment.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1160,7 +1190,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Executive - Inside Sales for one of the leading Human Capital Management Automation segment for Bangalore location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Executive - Inside Sales for one of the leading Human Capital Management Automation segment for Bangalore location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1233,7 +1263,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Assistant Manager - Customer Delight for one of the leading Human Capital Management Automation segment for Mumbai location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Assistant Manager - Customer Delight for one of the leading Human Capital Management Automation segment for Mumbai location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1307,7 +1337,7 @@ hi, h2, h3, h4, h5, h6 {
 		<div class="modal-content">
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<h3 class="modal-title" style="color:#af6011;"><strong>Associate Lead Engineer for India's best known Internet brands Navi Mumbai location.</strong></h4>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Associate Lead Engineer for India's best known Internet brands Navi Mumbai location.</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1377,7 +1407,7 @@ hi, h2, h3, h4, h5, h6 {
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 			<h3 class="modal-title" style="color:#af6011;"><strong>Product Counsellor -Sales for India's best known Internet brands Mumbai location.
-</strong></h4>
+</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1449,7 +1479,7 @@ hi, h2, h3, h4, h5, h6 {
 			<div class="modal-header">
 			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 			<h3 class="modal-title" style="color:#af6011;"><strong>Senior Data Scientist for India's best known Internet brands Mumbai location.
-</strong></h4>
+</strong></h3>
 			</div>
 			<div class="modal-body">
 		
@@ -1523,6 +1553,773 @@ Individual Contributor (IC)/Managerial - Individual/Small Team
 </div>
 </div>
 
+
+
+<div class="modal fade bs-example-modal-lg13" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for CODESYS Engineer - Application Testing for a Technology & Software Development Company in Pune.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Testing & Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Technology & Software
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+			<p># Preparing modules and test plans for Structured Text / Function block modules, components and applications Understanding requirements and creating test cases from them</p>
+			<p># Integrating Function Block libraries and testing them Participating in Requirements Management Preparing Test and Traceability reports</p>
+			<p># Contributing to Test Strategies and Test Plans Working in a team spread over multiple geographies</p>
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+			<p># Bachelors / Master’s Degree in Instrumentation (or related)</p>
+<p># 4+ years of experience as CODESYS developer / tester or preferable 3+ years of experience as C++ / C# developer / whitebox tester</p>
+<p># Knowledge in Structured Software Development Processes ( i.e. V - Model ) Knowledge in Requirements Engineering and Management</p>
+<p># Knowledge of developing PLC applications using CODESYS (IEC 61131-3)</p>
+<p># Knowledge in Unified Modelling Language ( UML )</p>
+<p># Proficient in Structured Text (ST), Function Block Diagrams (FBD) - Primary skill Knowledge in Windows/Linux based programming (C++/C#) - Preferable Knowledge in Python or other scripting languages – Preferable</p>
+<p># Experience in developing and testing PLC-based applications</p>
+<p># Familiarity with CAN (CANOpen, J1939, etc.), Ethernet communication protocols Experience with working on Safe and Non-Safe PLC and applications (e.g. SIL-1, SIL-2)</p>
+<p># Experience with testing tools (Wireshark, CAN Analyzers, etc.) Experience with CODESYS, Siemens PLC development environments</p>
+<p># Experience with standard software development tools (Subversion, Doxygen, etc.) Experience with a UML - Tool ( i.e. Enterprise Architect )</p>
+<p># Fluent in English ( spoken and written ) Basic German ( spoken and written ) </p>
+<p># Willingness to travel i.e. Stay in Germany for several weeks</p>
+<p># Confident and dynamic personality Embracing innovative thoughts</p>
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+
+<div class="modal fade bs-example-modal-lg14" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Senior Software App Developer - Cross-platform C# for a Technology & Software Development Company for Pune location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Testing & Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Technology & Software
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+			<p># Developing the software architecture and software components together with other team members</p>
+<p># Implementation of a user interface and mobile apps for different operating systems</p>
+<p># Developing and improving the software together with the product management</p>
+<p># Working in a team spread over multiple geographies</p>
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+			<p># Master's Degree / Post-Graduate Diploma in Computer Science</p>
+<p># 4+ years of experience as software developer / designer</p>
+<p># Knowledge in Structured Software Development Processes ( i.e. V - Model )</p>
+<p># Knowledge in Requirements Engineering and Management</p>
+<p># Knowledge in Object Oriented Analysis ( OOA ) and Object Oriented Design ( OOD )</p>
+<p># Knowledge in Android or iOS Programming</p>
+<p># Knowledge in Windows Programming ( XP, Win 7, Win 8.1 )</p>
+<p># Knowledge in Unified Modelling Language ( UML )</p>
+<p># Very good knowledge in Xamarin C#</p>
+<p># Good knowledge in Java and/or Objective C to handle native components/interfaces</p>
+<p># Knowledge in Python</p>
+<p># Knowledge in GUI design / implementation</p>
+<p># Very good knowledge in mobile application development</p>
+<p># Experience in developing cross-platform Apps based on Xamarin-C# for Android or iOS</p>
+<p># Experience in deploying Apps for Android or iOS</p>
+<p># Experience with Xamarin, Visual Studio, and native development tools</p>
+<p># Experience with a UML - Tool ( i.e. Enterprise Architect )</p>
+<p># Experience with standard software development tools (Subversion, Doxygen, etc.)</p>
+<p># Fluent in English ( spoken and written ) & Basic German ( spoken and written )</p>
+<p># Willingness to travel i.e. Stay in Germany for several weeks</p>
+<p># Confident and dynamic appearance</p>
+<p># Recognizing team members for performing at the highest level</p>
+<p># Embracing innovative thoughts</p>
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+
+<div class="modal fade bs-example-modal-lg15" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Senior Software Developer - Windows for a Technology & Software Development Company for Pune location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Testing & Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Technology & Software
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Preparing requirement specifications for Windows based applications</p>
+<p># Development of Windows applications in C# .NET</p>
+<p># Software components for internal control and communication, user interfaces, APIs, system maintenance and system administration</p>
+<p># Integration of applications with existing software</p>
+<p># Architecture based structured software development and SDLC document creation</p>
+<p># Working in a team spread over multiple geographies</p>
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+			<p># Min. Bachelor's Degree in Computer Science / Engineering
+<p># 5+ years of experience as software developer in C# .NET
+<p># Knowledge in Structured Software Development Processes (i.e. V Model )
+<p># Knowledge in Requirements Engineering Knowledge in Object Oriented Design (OOD)
+<p># Domain knowledge of industrial automation technologies
+<p># Knowledge in Unified Modelling Language (UML)
+<p># Proficiency in C# Experience with WPF
+<p># Good familiarity with python scripting
+<p># Experience with Microsoft Visual Studio 2010 Experience with standard software development tools (Subversion, Doxygen, etc.)
+<p># Experience with UML tools
+<p># Fluent English (spoken and written) Basic German (spoken and written)
+<p># Confident and dynamic personality Ability to work in teams
+<p># Embracing innovative thoughts
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg16" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Senior Software User Interface and App Developer for a Technology & Software Development Company for Pune location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Testing & Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Technology & Software
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Developing the software architecture and software components together with other team members</p>
+<p># Implementation of a user interface and apps based on Qt for different operating systems</p> 
+<p># Developing and improving the software together with the product management</p>
+<p># Working in a team spread over multiple geographies</p>
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+<p># Masters Degree / Post-Graduate Diploma in Computer Science</p>
+<p># 4+ years of experience as software developer / software architect</p>
+<p># Knowledge in Structured Software Development Processes ( i.e. V - Model ) Knowledge in Requirements Engineering and Management</p>
+<p># Knowledge in Object Oriented Analysis ( OOA ) and Object Oriented Design ( OOD )</p>
+<p># Knowledge in Windows Programming ( XP, Win 7, Win 8.1 ) Knowledge in Android or iOS Programming</p>
+<p># Knowledge in Unified Modelling Language ( UML )</p>
+<p># Very good knowledge in C++ Knowledge in Python</p>
+<p># Knowledge in GUI design / implementation Very good knowledge in Qt development</p>
+<p># Experience in developing Apps based on Qt for Android or iOS Experience in deploying Apps for Android or iOS</p>
+<p># Experience with a UML - Tool ( i.e. Enterprise Architect ) Experience with Microsoft Visual Studio, Qt Creator</p>
+<p># Experience with standard software development tools (Subversion, Doxygen, etc.)</p>
+<p># Fluent in English (spoken and written ) Basic German ( spoken and written )</p>
+<p># Willing to travel i.e. Stay in Germany for several weeks</p>
+<p># Confident and dynamic appearance</p>
+<p># Recognizing team members for performing at the highest level Embracing innovative thoughts</p>
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg17" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Test Engineer - Application Software for a Technology & Software Development Company for Pune location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Testing & Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Technology & Software
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Preparing test plans and strategies for GUI software modules, components and applications</p>
+<p># Understanding requirements and creating test cases from them</p>
+<p># Testing of Software modules, components and applications</p>
+<p># Installing, Implementing and Using Test Frameworks for manual tester</p>
+<p># Participating in Requirements Management</p>
+<p># Preparing Test and Traceability reports</p>
+<p># Contributing to Test Strategies and Test Plans</p>
+<p># Working in a team spread over multiple geographies</p>
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+<p># Bachelors/Masters Degree in Computer Science / Engineering</p>
+<p># ISTQB Certification</p>
+<p># 4+ years of experience as software tester</p>
+<p># 2+ years of experience as software developer</p>
+<p># Knowledge in Structured Software Development Processes (i.e. V -Model)</p>
+<p># Knowledge in Requirements Engineering</p>
+<p># Working knowledge of Agile/SCRUM methodologies</p>
+<p># Test automation</p>
+<p># Scripting languages - VB Scripting</p>
+<p># Windows and Linux based applications testing</p>
+<p># Software Life Cycle Management</p>
+<p># Domain knowledge of industrial automation technologies</p>
+<p># GUI Testing</p>
+<p># Experience with C++ / C# / WPF / web-based applications</p>
+<p># Experience with Linux and Windows console commands, shell scripts.</p>
+<p># GUI Test Automation tools - UFT, QTP</p>
+<p># Experience with standard software management tools (Git, Subversion, etc.)</p>
+<p># Software Life Cycle Management and Test Management tools (for example: Polarion)</p>
+<p># Fluent English (spoken and written) Basic German (spoken and written)</p>
+<p># Curious, confident and dynamic personality</p>
+<p># Ability to work in teams</p>
+<p># Willingness to travel to Germany for short duration</p>
+<p># Enhancing innovative thoughts through curiosity</p>
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg18" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Business Development Process Manager for Real Estate & Investment Firm for Mumbai Location
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Business Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Real Estate & Investment Firm
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Responsible for New Lead Generation</p> 
+<p># Responsible for Existing Client's Management</p> 
+<p># Responsible for multiple reporting which assist in tracking team's progress, generate lead, organize effective follow-ups both within the teams and with Clients, etc. </p> 
+<p># Responsible for and interact with CBRE international offices on multiple reporting which assist in tracking team's progress</p>  
+<p># Working on financial models, preparing presentations for Clients </p> 
+<p># Co-ordinate on critical assignments with both internal and other service lines within the company</p> 
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+<p># 3 to 8 years' experience in the same industry</p>
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg19" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring for Implementation Consultant for one of the leading Human Capital Management Automation segment for Mumbai location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Customer Management
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>HR Automation.
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Excellent understanding of payroll practices in India</p>
+<p># Understand and Analyse Customer Requirements.</p>
+<p># Provide Application expertise and Business expertise.</p>
+<p># Application Configuration and Functional Testing.</p>
+<p># Data Migration/Mapping</p>
+<p># User and Administrator's Training</p>
+<p># System administrative activities such as change in configuration, data management.</p>
+<p># Problem Resolution</p>
+<p># Consult on more than one implementation at one time.</p>
+<p># Accountable for application deliverables</p>
+
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+
+<p># Any Graduate</p>
+<p># 2 -3 years' experience</p>
+<p># Good Communication skills (Verbal & Written)</p>
+<p># Good analytical and problem resolving skills</p>
+<p># Should have multitasking skills</p>
+<p># Should be independent to handle any tasks and self-learner</p>
+<p># Product Implementation Skills</p>
+<p># Requirement gathering experience</p>
+
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg20" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>HRipple Solutions is Hiring!!
+			</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+			<p>If you are someone who is passionate about Recruitment & Human Resources; looking for something exciting and not as rigid as most of the 9 to 6 jobs and willing to be a part of our young team & equally young workplace, please share your profile on <strong>connect@hripplesolutions.com</strong>. Our team will connect with you for a detailed telecon. </p>
+			<br>
+<p>Read more about us & our work on <a href="http://www.hripplesolutions.com">www.hripplesolutions.com</a> </p><br>
+
+<p>Read our blog to see snippets of our workplace</p><br>
+			
+			<h4>Job Title:</h4>
+			<p>HR Recruiter
+			</p>
+			<br>
+			
+			<h4>Job Function:</h4>
+			<p>Human Resource, Recruitment (Core) & HR Consulting
+			</p>
+			<br>
+			
+			<h4>Job Location:</h4>
+			<p>Matunga West (Mumbai)  
+			</p>
+			<br>
+			
+			<h4>Salary:</h4>
+			<p>Flexible/ Fixed 
+			</p>
+			<br>
+			
+			
+			<h4>Responsibilities:</h4>
+
+<p># Understanding the requirement & Job description as per hiring criteria.</p>
+<p># Handling all functions of recruitment from sourcing of candidates through in house database, job portals, referrals, </p>
+<p># Scrutinizing, screening and short listing resumes based on specific criteria, skills, platforms, qualifications and relevant experience</p>
+<p># Interacting with clients for scheduling of Interviews & drives or line up.</p>
+<p># Achieving set targets.</p>
+
+
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+
+<p>1.	Graduate / Post graduate </p>
+<p>2.	Experience in recruitment will be a plus</p>
+<p>3.	Excellent communication and interpersonal skills</p>
+<p>4.	Strong decision-making skills.</p>
+<p>5.	Should be a self-starter, proactive & target oriented</p>
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+
+<div class="modal fade bs-example-modal-lg21" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring Head - Marketing Strategy for a company leading in Real Industry for Mumbai location
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Marketing Strategy
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Real Industry
+			</p>
+			<br>
+			
+			<h4>Team:</h4>
+			<p>6 direct reports
+			</p>
+			<br>
+			
+			<h4>Reporting to:</h4>
+			<p>VP Sales and Marketing
+			</p>
+			<br>
+			
+			<h4>Role:</h4>
+			<p>Marketing strategy spans various marketing initiatives / plans and activities for increasing sales and achieving a sustainable competitive advantage. It includes the formulation, evaluation and selection of market-oriented strategies and therefore contribute to the business goals of the company.
+			</p>
+			<br>
+			
+			<h4>Responsibilities:</h4>
+
+<p>1. Strategic Thinking: Formulate strategic marketing plans based on detailed understating of internal and external environment to identify business alternatives, establish challenging goals and determine the optimal marketing & product mix to attain business goals </p></br> 
+<p>2. Growth Strategies: Focus on developing macro-level growth strategies such as developing market introduction strategy , price feasibility study prior to key acquisitions, product life cycle studies, HOH positioning in the high-end segment etc. </p> </br>
+<p>3. Marketing Mix Modelling: Optimize the Marketing Mix across product categories and create value and achieve product specific strategic goals in terms of sales volumes and brand efficacy. Furthermore, develop strong and sustaining positioning for upcoming launches and ensure it cascades seamlessly across the marketing mix. </p></br> 
+<p>4. Strategy Monitoring: Closely monitor all strategic implementation and progress of all planed initiatives. Additionally, set up a contingency plans if problems arise in the overall implementation. </p>  </br>
+<p>5. Goal Measurability: Formulate marketing plans that address marketing needs and reach marketing objectives with measurable results in terms of sales volumes</p> </br>
+
+
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+<p># Preferably MBA </p>
+<p># 6 - 12 Years in the same industry</p>
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade bs-example-modal-lg22" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			<h3 class="modal-title" style="color:#af6011;"><strong>Hiring Senior Manager/ AGM - Business Development for a company leading in Real Industry for Mumbai location.
+</strong></h3>
+			</div>
+			<div class="modal-body">
+		
+			<div class="row">
+			
+			<div class="col-md-12">
+
+			<h4>Job Function:</h4>
+			<p>Business Development
+			</p>
+			<br>
+			
+			<h4>Company Industry:</h4>
+			<p>Real Industry
+			</p>
+			<br>
+			
+			<h4>Position reporting to General Manager :</h4>
+			<p>Business Development
+			</p>
+			<br>
+		
+			
+			<h4>Responsibilities:</h4>
+
+<p># Real estate professional in a business development role.</p>
+<p># Identify Business opportunities for co-operative society re-development / JV of JDA for land development</p>
+<p># For joint ventures / JDAs for residential townships in Bombay and other cities / re-development projects / Negotiating / creating MIS.</p>
+			
+
+			<br>
+			
+			
+			
+			<h4>Requirements:</h4>
+			
+			
+<p># Preferably MBA </p>
+<p># 6 - 12 Years in the same industry</p>
+
+		
+			
+			
+			<br><br>
+			 <p><strong style="color:#af6011;">Interested candidates please send their updated resumes to connect@hripplesolutions.com along with the current and expected salary.</strong> </p>		
+					
+				
+			</div>
+
+			</div>
+			</div>
+			<div class="modal-footer">
+			<button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+			</div>
+</div>
+</div>
+</div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->	
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
